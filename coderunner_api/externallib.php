@@ -16,8 +16,8 @@
 /**
  * WebServices interface for Certificate API
  *
- * @package    local_certificateapi
- * @copyright  2017 Ian Wild
+ * @package    coderunner_api
+ * @copyright  2021 Damian Sastre
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
