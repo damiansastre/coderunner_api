@@ -1,7 +1,1 @@
-An XML-RPC WebServices API for that allows an external application to read course completion data (certificates issued) for a specified time window.
-
-./client folder contains a simple PHP+jQuery test client.
-
-A client will require the relevant tokens and keys.
-
-
+A moodle plugin for code runner
